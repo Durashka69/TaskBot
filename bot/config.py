@@ -1,0 +1,3 @@
+NUMBER_OF_USERS: int = 3
+MAX_POSTS_PER_USER: int = 4
+MAX_LIKES_PER_USER: int = 2
